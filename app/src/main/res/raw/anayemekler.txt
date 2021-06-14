@@ -1,0 +1,7 @@
+Chicken Schnitzel,11.000
+Grilled Meat Balls,15.000
+Grilled Chicken,12.000
+Chicken with soy sauce,15.000
+Chicken with curry sauce,15.000
+Meat Dish,13.000
+Chicken Dish,11.000

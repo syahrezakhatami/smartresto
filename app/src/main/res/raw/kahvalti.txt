@@ -1,0 +1,4 @@
+Breakfast Plate,12.000
+Strawberry Omelette,7.000
+Sausage Omelette,7.000
+Menemen,9.000

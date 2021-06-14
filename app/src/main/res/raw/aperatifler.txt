@@ -1,0 +1,9 @@
+Cheesed Toast,7.000
+Mixed Toast,8.000
+Ayvalık Toast,10.000
+Hamburger,11.000
+Cheeseburger,12.000
+Patso,7.000
+Hot Dog,8.000
+Finger Potato,7.000
+Apple Slice Potato,7.000

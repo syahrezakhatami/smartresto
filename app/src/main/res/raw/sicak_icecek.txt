@@ -1,0 +1,15 @@
+Tea,3.000
+Cup of Tea,4.000
+Fruit Tea,5.000
+Herbal Tea,7.000
+Turkish Coffee,6.000
+Nescafe,6.000
+Espresso,6.000
+Americano,7.000
+Cappucino,7.000
+Latte,8.000
+Mocha,8.000
+Macchiato,8.000
+Filter Coffee,7.000
+Sahlep,7.000
+Hot chocolate,8.000
